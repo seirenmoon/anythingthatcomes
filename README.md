@@ -1,2 +1,3 @@
 # anythingthatcomes
 just things that will appear in my mind and need a fucking css for that...
+![image alt](https://github.com/seirenmoon/anythingthatcomes/blob/cb97f0b1cee673c570c9c729aa6e24b4f61249bf/WhatsApp%20Image%202026-09-17%20at%2022.56.51.jpeg)
